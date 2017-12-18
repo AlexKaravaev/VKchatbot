@@ -6,7 +6,7 @@ import model
 import codecs
 
 import telebot
-token='486327282:AAET5ffuzmD1H3nGt6g762z8is1zo7SN4DA'
+#token='YOUR TOKEN GOES HERE"
 
 # Load in data structures
 def read_data(filename):
